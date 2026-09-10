@@ -5,10 +5,10 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Spring - 202x<br>
+<font size="8">Pipe Sensor Project<br>
+<font size="5">Team 123<br>
+**Submission: September, 09, 2026**<br>
+Fall - 202x<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
 Professor Name<br>
